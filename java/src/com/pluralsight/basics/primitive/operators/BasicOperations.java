@@ -1,4 +1,4 @@
-package com.pluralsight.basics.operators;
+package com.pluralsight.basics.primitive.operators;
 
 public class BasicOperations {
 
