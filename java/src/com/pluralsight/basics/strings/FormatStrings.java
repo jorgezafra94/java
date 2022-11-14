@@ -48,10 +48,12 @@ public class FormatStrings {
 
         System.out.println("");
         System.out.println("Flag de padding");
-        s1 = String.format("%d", 123);
-        s2 = String.format("%6d",123);
+        s1 = String.format("prueba: %d numero", 123);
+        s2 = String.format("prueba: %6d numero",123);
+        String s3 = String.format("prueba: %-6d numero", 123);
         System.out.println(s1);
-        System.out.println(s2 + " deja los espacios luego del igual");
+        System.out.println(s2 + " deja padding a la izq");
+        System.out.println(s3 + " deja padding a la derecha debido al -");
 
         System.out.println("");
         System.out.println("Flag de llenar con zeros mas padding para entender");
