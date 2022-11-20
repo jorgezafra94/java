@@ -1,4 +1,4 @@
-package com.pluralsight.classes.encapsulacion.basics;
+package com.pluralsight.classes.advanced.encapsulacion;
 
 public class MainMyClass {
     public static void main(String[] args) {

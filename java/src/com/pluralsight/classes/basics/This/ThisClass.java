@@ -1,4 +1,4 @@
-package com.pluralsight.classes.encapsulacion.This;
+package com.pluralsight.classes.basics.This;
 
 public class ThisClass {
     /*

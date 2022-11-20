@@ -1,4 +1,4 @@
-package com.pluralsight.classes.encapsulacion.basics;
+package com.pluralsight.classes.advanced.encapsulacion;
 
 public class MyClass {
     /*
